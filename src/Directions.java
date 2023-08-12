@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Directions {
+public enum Directions {
+    UP,DOWN,LEFT,RIGHT;
 }
